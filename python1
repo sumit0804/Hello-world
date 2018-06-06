@@ -2,5 +2,5 @@ import pandas as pd
 def func (a, b):
     return (a+b)
 
-c = func(1, 2)
+c = func(1, 4)
 c
